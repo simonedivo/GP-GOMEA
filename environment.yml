@@ -1,4 +1,4 @@
-name: gpgomenv
+name: gpgomenv-sd
 channels:
     - conda-forge
 dependencies:
