@@ -2,8 +2,8 @@ name: gpgomenv-sd
 channels:
     - conda-forge
 dependencies:
-    - gcc
-    - gxx
+    - gcc=11.4.0
+    - gxx=11.4.0
     - python=3.8
     - cmake=3.19.1 
     - armadillo=9.900.4 
